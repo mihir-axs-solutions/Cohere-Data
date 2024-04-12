@@ -1,0 +1,232 @@
+{
+  "text": "The acting in this film was superb!",
+  "label": "positive"
+}
+{
+  "text": "I couldn't follow the plot of this movie at all.",
+  "label": "negative"
+}
+{
+  "text": "This movie made me laugh so hard!",
+  "label": "positive"
+}
+{
+  "text": "The special effects in this film were disappointing.",
+  "label": "negative"
+}
+{
+  "text": "I found the storyline of this movie to be very predictable.",
+  "label": "negative"
+}
+{
+  "text": "The cinematography in this film was breathtaking.",
+  "label": "positive"
+}
+{
+  "text": "I would highly recommend this movie to anyone looking for a good time.",
+  "label": "positive"
+}
+{
+  "text": "The soundtrack of this movie was amazing!",
+  "label": "positive"
+}
+{
+  "text": "I was on the edge of my seat the entire time!",
+  "label": "positive"
+}
+{
+  "text": "This movie failed to capture the essence of the book it was based on.",
+  "label": "negative"
+}
+{
+  "text": "The dialogue in this film felt forced and unnatural.",
+  "label": "negative"
+}
+{
+  "text": "I couldn't stop thinking about this movie long after it ended.",
+  "label": "positive"
+}
+{
+  "text": "The pacing of this movie was too slow for my liking.",
+  "label": "negative"
+}
+{
+  "text": "I was disappointed by the lack of character development in this film.",
+  "label": "negative"
+}
+{
+  "text": "This movie left me feeling emotionally drained.",
+  "label": "negative"
+}
+{
+  "text": "I was pleasantly surprised by how much I enjoyed this movie.",
+  "label": "positive"
+}
+{
+  "text": "The costume design in this film was top-notch.",
+  "label": "positive"
+}
+{
+  "text": "I found the plot twists in this movie to be completely unexpected.",
+  "label": "positive"
+}
+{
+  "text": "I couldn't take this movie seriously due to its poor acting.",
+  "label": "negative"
+}
+{
+  "text": "This movie was a complete waste of time.",
+  "label": "negative"
+}
+{
+  "text": "I was captivated by the performances of the lead actors.",
+  "label": "positive"
+}
+{
+  "text": "This movie was too violent for my taste.",
+  "label": "negative"
+}
+{
+  "text": "I was impressed by the attention to detail in this film.",
+  "label": "positive"
+}
+{
+  "text": "The ending of this movie left me feeling unsatisfied.",
+  "label": "negative"
+}
+{
+  "text": "I was bored to tears by this movie.",
+  "label": "negative"
+}
+{
+  "text": "This movie exceeded all of my expectations.",
+  "label": "positive"
+}
+{
+  "text": "The chemistry between the main characters in this film was palpable.",
+  "label": "positive"
+}
+{
+  "text": "I found the humor in this movie to be juvenile and unfunny.",
+  "label": "negative"
+}
+{
+  "text": "I would definitely watch this movie again!",
+  "label": "positive"
+}
+{
+  "text": "This movie was a complete mess from start to finish.",
+  "label": "negative"
+}
+{
+  "text": "I was left feeling underwhelmed by this film.",
+  "label": "negative"
+}
+{
+  "text": "The visual effects in this movie were groundbreaking.",
+  "label": "positive"
+}
+{
+  "text": "I was moved to tears by the emotional depth of this film.",
+  "label": "positive"
+}
+{
+  "text": "This movie left me feeling inspired and uplifted.",
+  "label": "positive"
+}
+{
+  "text": "I struggled to connect with any of the characters in this movie.",
+  "label": "negative"
+}
+{
+  "text": "This movie had me on the edge of my seat the entire time!",
+  "label": "positive"
+}
+{
+  "text": "I was disappointed by the lack of originality in this film.",
+  "label": "negative"
+}
+{
+  "text": "The acting in this movie was wooden and unconvincing.",
+  "label": "negative"
+}
+{
+  "text": "I found the dialogue in this film to be witty and engaging.",
+  "label": "positive"
+}
+{
+  "text": "This movie was nothing short of a masterpiece.",
+  "label": "positive"
+}
+{
+  "text": "I couldn't stop thinking about this movie for days after watching it.",
+  "label": "positive"
+}
+{
+  "text": "This movie had me laughing out loud from start to finish.",
+  "label": "positive"
+}
+{
+  "text": "I was disappointed by the lack of character development in this movie.",
+  "label": "negative"
+}
+{
+  "text": "The special effects in this film were absolutely stunning.",
+  "label": "positive"
+}
+{
+  "text": "I found the plot of this movie to be confusing and disjointed.",
+  "label": "negative"
+}
+{
+  "text": "This movie had me on the edge of my seat the entire time!",
+  "label": "positive"
+}
+{
+  "text": "I was moved to tears by the emotional performances in this film.",
+  "label": "positive"
+}
+{
+  "text": "I was let down by the lackluster ending of this movie.",
+  "label": "negative"
+}
+{
+  "text": "This movie was a rollercoaster of emotions from start to finish.",
+  "label": "positive"
+}
+{
+  "text": "I found the cinematography in this film to be visually stunning.",
+  "label": "positive"
+}
+{
+  "text": "I was disappointed by the lack of depth in the characters in this movie.",
+  "label": "negative"
+}
+{
+  "text": "This movie kept me guessing until the very end!",
+  "label": "positive"
+}
+{
+  "text": "I struggled to stay awake while watching this movie.",
+  "label": "negative"
+}
+{
+  "text": "The performances in this film were truly outstanding.",
+  "label": "positive"
+}
+{
+  "text": "I was left feeling underwhelmed by this movie.",
+  "label": "negative"
+}
+{
+  "text": "This movie was a total thrill ride from start to finish!",
+  "label": "positive"
+}
+{
+  "text": "I found the storyline of this movie to be cliched and uninspired.",
+  "label": "negative"
+}
+{
+  "text": "I was pleasantly surprised by how much I enjoyed this film.",
+  "label": "positive"
+}
