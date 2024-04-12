@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "title": "Glucose",
+      "url": "https://en.wikipedia.org/wiki/Glucose",
+      "content": "Glucose is a simple sugar and an important carbohydrate in biology.",
+      "category": "Chemistry"
+    },
+    {
+      "title": "Photosynthesis",
+      "url": "https://en.wikipedia.org/wiki/Photosynthesis",
+      "content": "Photosynthesis is a process used by plants to convert sunlight into chemical energy.",
+      "category": "Biology"
+    },
+    {
+      "title": "Cellular Respiration",
+      "url": "https://en.wikipedia.org/wiki/Cellular_respiration",
+      "content": "Cellular respiration is the process of converting glucose into usable energy in the form of ATP.",
+      "category": "Biology"
+    }
+  ]
+}
